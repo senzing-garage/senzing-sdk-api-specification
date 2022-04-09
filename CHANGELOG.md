@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed in 2.0.0
 
-- See https://senzing.com/releases/
+- Completed and updated java and python documentation
 
 ## [1.15.0] - 2020-04-20
 
